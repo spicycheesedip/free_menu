@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+psutil
+whois
+tk
+python3-tk
